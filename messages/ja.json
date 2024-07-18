@@ -1,0 +1,27 @@
+{
+  "Index": {
+      "title": "ホームページ",
+      "loggedIn": "{ユーザー名}としてログインしました",
+      "loggedOut": "ログアウトしました。",
+      "login": "ログイン",
+      "logout": "ログアウト",
+      "secret": "ログインしたユーザー用の秘密のページ"
+  },
+  "LocaleLayout": {
+      "title": "Auth.js を使用した next-intl の例"
+  },
+  "Login": {
+      "title": "ログイン",
+      "username": "ユーザー名",
+      "password": "パスワード",
+      "submit": "ログイン",
+      "error": "{error、select、CredentialsSignin {無効なユーザー名またはパスワード} other {不明なエラー}}"
+  },
+  "LocaleSwitcher": {
+      "switchLocale": "{locale、select、de {ドイツ語} en {英語} other {不明}} に切り替える"
+  },
+  "Secret": {
+      "title": "秘密のページ",
+      "description": "このページはログインしたユーザーのみ表示されます。"
+  }
+}

@@ -23,7 +23,7 @@ export function GET() {
     },
     LocaleSwitcher: {
       switchLocale:
-        '{locale、select、ja {Japanese} en {English} other {Unknown} に切り替える'
+         'Switch to {locale, select, ja {Japanese} en {English} other {Unknown}}'
     },
     Secret: {
       title: '秘密のページ',
